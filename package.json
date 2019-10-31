@@ -1,0 +1,22 @@
+{
+  "name": "secondproj",
+  "version": "1.0.0",
+  "description": "second project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tberna"
+  ],
+  "author": "Tibor Berna",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^5.15.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "codeceptjs": "^2.3.5",
+    "webdriverio": "^5.15.2"
+  }
+}
